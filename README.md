@@ -20,5 +20,4 @@ This project aims to offer a helpful and accessible way for users to obtain info
 
 ---
 
-If you have any questions or would like more information, feel free to reach out!
 
